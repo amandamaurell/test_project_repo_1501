@@ -1,2 +1,2 @@
 def example():
-    pass
+    return 0
